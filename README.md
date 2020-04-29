@@ -116,4 +116,4 @@ require('dotenv').config();
 * [node-postgres](https://node-postgres.com/)
 * [Postgres Numeric Data Types](https://www.postgresql.org/docs/11/datatype-numeric.html)
 * [Little Bobby Tables](https://xkcd.com/327/)
-* [SQL Injection](https://en.wikipedia.org/wiki/SQL_i)
+* [SQL Injection](https://en.wikipedia.org/wiki/SQL_injection)
