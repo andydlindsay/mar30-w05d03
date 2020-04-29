@@ -4,7 +4,7 @@
 - [ ] Create a database and query it using `psql` terminal
 - [ ] Perform `BREAD` actions on database from command line
 - [ ] Demonstrate a SQL Injection attack
-- [ ] Perform `BREAD` actions on database from the browser
+- [ ] Serve data to the browser
 - [ ] Protecting your secrets with Environment Variables
 
 
