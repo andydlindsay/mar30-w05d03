@@ -1,4 +1,3 @@
-  
 DROP TABLE IF EXISTS movie_villains;
 
 CREATE TABLE movie_villains (

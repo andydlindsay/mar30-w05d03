@@ -1,12 +1,11 @@
 # W05D03 SQL from our Apps
 
 ### To Do
-- [ ] Create a database and query it using `psql` terminal
-- [ ] Perform `BREAD` actions on database from command line
-- [ ] Demonstrate a SQL Injection attack
-- [ ] Serve data to the browser
+- [x] Create a database and query it
+- [x] Perform `BREAD` actions on database from command line
+- [x] Demonstrate a SQL Injection attack
+- [x] Serve data to the browser
 - [ ] Protecting your secrets with Environment Variables
-
 
 
 
